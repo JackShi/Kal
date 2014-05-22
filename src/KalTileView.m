@@ -6,6 +6,9 @@
 #import "KalTileView.h"
 #import "KalPrivate.h"
 #import <CoreText/CoreText.h>
+#import "NSDate+Convenience.h"
+#import "ColorConstants.h"
+
 
 extern const CGSize kTileSize;
 

@@ -5,7 +5,6 @@
 
 #import <UIKit/UIKit.h>
 #import "KalGridView.h"
-#import "ColorConstants.h"
 
 @class KalLogic;
 @protocol KalViewDelegate, KalDataSourceCallbacks;

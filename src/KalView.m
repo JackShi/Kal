@@ -7,6 +7,8 @@
 #import "KalGridView.h"
 #import "KalLogic.h"
 #import "KalPrivate.h"
+#import "NSDate+Convenience.h"
+#import "ColorConstants.h"
 
 @interface KalView ()
 
