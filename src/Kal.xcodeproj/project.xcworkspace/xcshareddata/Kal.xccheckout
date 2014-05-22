@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>C9FAB075-F4AD-4AD6-8058-6396B1A65420</string>
+	<string>364DDEFE-1E0E-446B-993C-5AC91D230817</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Kal</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>45B3182C-150C-43E3-AC8A-641A20D6D870</key>
-		<string>https://github.com/phaibin/Kal.git</string>
+		<key>5B332A8D-3614-48AD-989C-1EDE64848187</key>
+		<string>https://github.com/JackShi/Kal.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>src/Kal.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>45B3182C-150C-43E3-AC8A-641A20D6D870</key>
+		<key>5B332A8D-3614-48AD-989C-1EDE64848187</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/phaibin/Kal.git</string>
+	<string>https://github.com/JackShi/Kal.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>45B3182C-150C-43E3-AC8A-641A20D6D870</string>
+	<string>5B332A8D-3614-48AD-989C-1EDE64848187</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>45B3182C-150C-43E3-AC8A-641A20D6D870</string>
+			<string>5B332A8D-3614-48AD-989C-1EDE64848187</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Kal</string>
 		</dict>
