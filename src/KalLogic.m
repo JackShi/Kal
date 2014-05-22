@@ -5,6 +5,7 @@
 
 #import "KalLogic.h"
 #import "KalPrivate.h"
+#import "NSDate+Convenience.h"
 
 @interface KalLogic ()
 - (void)moveToMonthForDate:(NSDate *)date;

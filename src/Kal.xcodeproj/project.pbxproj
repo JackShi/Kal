@@ -34,6 +34,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0416DD6C192E728F000CA4E5 /* ColorConstants.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ColorConstants.h; sourceTree = "<group>"; };
 		35D2192D18642AB100A39950 /* NSDate+Convenience.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+Convenience.h"; sourceTree = "<group>"; };
 		35D2192E18642AB100A39950 /* NSDate+Convenience.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+Convenience.m"; sourceTree = "<group>"; };
 		533B285F11E2D46E00B3CC07 /* Kal.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Kal.bundle; sourceTree = "<group>"; };
@@ -143,6 +144,7 @@
 				533B287511E2D46E00B3CC07 /* UIViewAdditions.m */,
 				35D2192D18642AB100A39950 /* NSDate+Convenience.h */,
 				35D2192E18642AB100A39950 /* NSDate+Convenience.m */,
+				0416DD6C192E728F000CA4E5 /* ColorConstants.h */,
 			);
 			name = Additions;
 			sourceTree = "<group>";

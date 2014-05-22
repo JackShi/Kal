@@ -4,6 +4,7 @@
  */
 
 #import <UIKit/UIKit.h>
+#import "ColorConstants.h"
 
 typedef enum {
     KalTileTypeRegular   = 0,
