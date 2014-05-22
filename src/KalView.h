@@ -44,7 +44,7 @@
   KalLogic *logic;
 }
 
-@property (nonatomic, weak) id<KalViewDelegate> delegate;
+@property (nonatomic, strong) id<KalViewDelegate> delegate;
 @property (nonatomic, strong) UITableView *tableView;
 @property (nonatomic, strong) KalGridView *gridView;
 

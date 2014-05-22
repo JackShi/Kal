@@ -7,6 +7,7 @@
 #import "KalLogic.h"
 #import "KalDataSource.h"
 #import "KalPrivate.h"
+#import "ColorConstants.h"
 
 #define PROFILER 0
 #if PROFILER
