@@ -11,7 +11,6 @@
 #import "KalTileView.h"
 #import "KalLogic.h"
 #import "KalPrivate.h"
-#import "NSDate+Convenience.h"
 
 #define SLIDE_NONE 0
 #define SLIDE_UP 1

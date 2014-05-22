@@ -8,7 +8,6 @@
 #import "KalTileView.h"
 #import "KalView.h"
 #import "KalPrivate.h"
-#import "NSDate+Convenience.h"
 
 extern const CGSize kTileSize;
 
